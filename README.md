@@ -20,7 +20,7 @@ Dependencies
 - [Grunt](http://gruntjs.com/)
 - [Bower](http://bower.io/)
 - [Backbone](http://backbonejs.org/) (Needs [Jquery](http://jquery.com/) and [underscore](http://underscorejs.org/))
-- [Jasmine](http://pivotal.github.io/jasmine/)
+- [Jasmine](https://jasmine.github.io/)
 - [Phantom.js](http://phantomjs.org/)
 
 
